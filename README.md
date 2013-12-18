@@ -1,4 +1,5 @@
 EasyDinner
 ==========
 
-晩飯決定システム
+晩飯決定システム  
+programmer:ohta
